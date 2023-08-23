@@ -35,7 +35,7 @@ a:hover{
 }
 .bg{
     width: 100%;
-    height: 120vh;
+    height: 100%;
     background-image: url("mobile-bg.jpg");
     background-repeat: no-repeat;
     background-attachment:fixed;
